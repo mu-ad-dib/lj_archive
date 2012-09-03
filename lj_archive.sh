@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Assumes that you have used ljdump-1.5.1 to download entries from LiveJournal, and are in the ljdump directory
+# Assumes that you have used ljdump-1.5.1 (https://github.com/ghewgill/ljdump) to download entries from LiveJournal, and are in the ljdump directory
 # e.g. I ran ljdump.py for user 'bartelby', and am in ~/ljdump-1.5.1
 # The script will make the directory ~/ljdump-1.5.1/bartelby/Entries, and extract each entry's date/time, title, and main content into a .txt file 
 
