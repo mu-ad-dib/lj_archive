@@ -1,4 +1,4 @@
-lj_archiver
+lj_archive
 ===========
 
 Shell script that exports meaningful data from files created by [ljdump](https://www.github.com/ghegill/ljdump)
